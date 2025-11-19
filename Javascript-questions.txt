@@ -1,0 +1,13 @@
+    14/11/2025
+Namaste Javascript 
+1)How JavaScript Works & Execution Context
+	15/11/2025
+2)How JavaScript Code is executed? & Call Stack
+	16/11/2025
+3)Hoisting in JavaScript (variables & functions)
+	17/11/2025
+4)How functions work in JS & Variable Environment
+	18/11/2025
+5)undefined vs not defined in JS
+	19/11/2025
+6)The Scope Chain, Scope & Lexical Environment
